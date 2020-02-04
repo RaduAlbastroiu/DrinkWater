@@ -15,6 +15,7 @@
 		DAE7B9FF23E9CB090049AD37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAE7B9FD23E9CB090049AD37 /* LaunchScreen.storyboard */; };
 		DAE7BA0A23E9CB090049AD37 /* DrinkWaterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAE7BA0923E9CB090049AD37 /* DrinkWaterTests.swift */; };
 		DAE7BA1523E9CB090049AD37 /* DrinkWaterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAE7BA1423E9CB090049AD37 /* DrinkWaterUITests.swift */; };
+		DAE7BA2523E9F2800049AD37 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAE7BA2423E9F2800049AD37 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DAE7BA1023E9CB090049AD37 /* DrinkWaterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DrinkWaterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAE7BA1423E9CB090049AD37 /* DrinkWaterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrinkWaterUITests.swift; sourceTree = "<group>"; };
 		DAE7BA1623E9CB090049AD37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAE7BA2423E9F2800049AD37 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				DAE7B9F223E9CB070049AD37 /* AppDelegate.swift */,
 				DAE7B9F423E9CB070049AD37 /* SceneDelegate.swift */,
 				DAE7B9F623E9CB070049AD37 /* ContentView.swift */,
+				DAE7BA2423E9F2800049AD37 /* CircleImage.swift */,
 				DAE7B9F823E9CB090049AD37 /* Assets.xcassets */,
 				DAE7B9FD23E9CB090049AD37 /* LaunchScreen.storyboard */,
 				DAE7BA0023E9CB090049AD37 /* Info.plist */,
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DAE7B9F323E9CB070049AD37 /* AppDelegate.swift in Sources */,
+				DAE7BA2523E9F2800049AD37 /* CircleImage.swift in Sources */,
 				DAE7B9F523E9CB070049AD37 /* SceneDelegate.swift in Sources */,
 				DAE7B9F723E9CB070049AD37 /* ContentView.swift in Sources */,
 			);
